@@ -1,0 +1,2 @@
+# Kibana theme change based on sunset&sunrise info
+1 0 * * * /home/kibana/cron/get-sunset-sunrise_and_schedule-jobs.sh
